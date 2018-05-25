@@ -51,4 +51,25 @@
     
   </entry>
   
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2018/03/17/1/"/>
+    <id>http://yoursite.com/2018/03/17/1/</id>
+    <published>2018-03-17T13:18:26.000Z</published>
+    <updated>2018-04-02T07:30:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="从零开始搭建中小企业可用框架（0）"><a href="#从零开始搭建中小企业可用框架（0）" class="headerlink" title="从零开始搭建中小企业可用框架（0）"></a>从零开始搭建中小企业可用框架（0）</h1><h2 id="为什么写这个系列的博客"><a href="#为什么写这个系列的博客" class="headerlink" title="为什么写这个系列的博客"></a>为什么写这个系列的博客</h2><p>  很久没有更新博客了，然后准备总结一下新公司学到的东西，于是就想着自己试着结合之前的经验从头开始搭建一套框架出来，然后记录一下学习实践的过程。本人工作经验有限，写出的东西肯定有很多不足，如果您看到这个系列的博客，还请不啬赐教。立个flag，以后每周更新一篇。</p><h2 id="技术简介"><a href="#技术简介" class="headerlink" title="技术简介"></a>技术简介</h2><ul><li>开发运行环境：  JDK8</li><li>后台架构： spring-boot + dubbo + spring-mvc + mybatis</li><li>数据库： mysql + mongodb</li><li>服务器： tomcat + nginx</li><li>项目管理工具： maven + nexus</li><li>版本管理工具： git + gitlab</li><li>日志管理工具： ELK</li><li>持续集成工具： Jenkins</li><li>分布式缓存架构： redis + memcached</li><li>消息中间件： kafka + rocketmq</li><li>服务容器： docker</li><li>运维监控： Open-Falcon</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;从零开始搭建中小企业可用框架（0）&quot;&gt;&lt;a href=&quot;#从零开始搭建中小企业可用框架（0）&quot; class=&quot;headerlink&quot; title=&quot;从零开始搭建中小企业可用框架（0）&quot;&gt;&lt;/a&gt;从零开始搭建中小企业可用框架（0）&lt;/h1&gt;&lt;h2 id=&quot;为什么写这
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
 </feed>
